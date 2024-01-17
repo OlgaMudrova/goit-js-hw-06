@@ -22,4 +22,3 @@ console.log(storage.getItems()); // ["Nanitoids", "Prolonger", "Antigravitator",
 storage.removeItem("Prolonger");
 console.log(storage.getItems()); // ["Nanitoids", "Antigravitator", "Droid"]
 
-console.log("-------------------------------------");
